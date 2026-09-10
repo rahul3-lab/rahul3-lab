@@ -82,16 +82,16 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems, automat
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahul3-lab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul3-lab&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahul3-lab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=dark" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul3-lab&layout=compact&langs_count=8&hide_border=true&theme=dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul3-lab&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul3-lab&hide_border=true&theme=dark" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul3-lab&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul3-lab&hide_border=true&area=true&theme=react-dark" alt="Contribution Activity Graph"/>
 </p>
 
 > Total repos, stars earned, and follower counts are all reflected live in the badges above and at the top of this profile — GitHub doesn't allow those numbers to be hardcoded, so they'll always stay current automatically.
@@ -101,7 +101,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems, automat
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul3-lab&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul3-lab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
