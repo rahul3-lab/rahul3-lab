@@ -7,9 +7,15 @@
 
 - 🔭 I’m currently working on **AI_LLM_Automation**
 
+- 🌱 I’m currently learning **Deep Learning Framework**
+
 - 👯 I’m looking to collaborate on **BusinessRulesETL_Azure**
 
+- 💬 Ask me about **Automation**
+
 - 📫 How to reach me **jha42032@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15zBhfO-lxBIjplAfP18nFclGBSXOdDyj/view?usp=drive_link](https://drive.google.com/file/d/15zBhfO-lxBIjplAfP18nFclGBSXOdDyj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
