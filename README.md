@@ -54,8 +54,6 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 [![](https://github-profile-trophy.vercel.app/?username=rahul3-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/rahul3-lab)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dheerurj?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/dheerurj/)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ha42032)
 
 ## 🐍 Contribution Snake
