@@ -41,6 +41,8 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 ## 📊 GitHub Stats
 [#-github-stats](#-github-stats)
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul3-lab&theme=tokyonight)](https://github.com/rahul3-lab)
+
 [![](https://github-readme-stats.vercel.app/api?username=rahul3-lab&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=00C9FF&icon_color=00C9FF)](https://github.com/rahul3-lab)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul3-lab&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00C9FF)](https://github.com/rahul3-lab)
 
