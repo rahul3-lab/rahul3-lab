@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:1b3a4b,100:00c9ff&height=230&section=header&text=Rahul%20Jha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLMs%20%7C%20Automation%20%7C%20Full-Stack%20AI%20Systems&descAlignY=55&descSize=18&stroke=00C9FF&strokeWidth=1)](https://github.com/rahul3-lab)
+[![](https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,25:302b63,50:24243e,75:1b3a4b,100:00c9ff&height=230&section=header&text=Rahul%20Jha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLMs%20%7C%20Automation%20%7C%20Full-Stack%20AI%20Systems&descAlignY=55&descSize=18&stroke=00C9FF&strokeWidth=1)](https://github.com/rahul3-lab)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-jha-8a9324267/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul3-lab)
@@ -61,4 +61,4 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 [![Snake animation](https://raw.githubusercontent.com/rahul3-lab/rahul3-lab/output/github-contribution-grid-snake.svg)](https://github.com/rahul3-lab)
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:1b3a4b,75:302b63,100:0f0c29&height=120&section=footer&animation=twinkling)](https://github.com/rahul3-lab)
+[![](https://capsule-render.vercel.app/api?type=cylinder&color=0:00c9ff,50:1b3a4b,75:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn)](https://github.com/rahul3-lab)
