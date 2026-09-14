@@ -49,6 +49,8 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul3-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&date_format=j%2FM%5B%2FY%5D)](https://github.com/rahul3-lab)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul3-lab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=00C9FF&point=ffffff)](https://github.com/rahul3-lab)
+
 ## 🏆 Achievements
 [#-achievements](#-achievements)
 
