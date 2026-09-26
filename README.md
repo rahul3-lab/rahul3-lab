@@ -39,6 +39,13 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas,azure,docker,git,js,ts,react,nextjs,nodejs,express,flask,mysql,postgres,mongodb&perline=10)](https://skillicons.dev)
 
+## 💻 Favorite Tools & Technologies
+[#-favorite-tools--technologies](#-favorite-tools--technologies)
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas,numpy,jupyter,huggingface&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,flask,vscode,graphql&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,docker,kubernetes,git,github,linux&perline=9)](https://skillicons.dev)
+
 ## 📊 GitHub Stats
 [#-github-stats](#-github-stats)
 
@@ -57,6 +64,17 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 [![](https://github-profile-trophy.vercel.app/?username=rahul3-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/rahul3-lab)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ha42032)
+
+### 🎖️ GitHub Achievement Badges
+[#️-github-achievement-badges](#️-github-achievement-badges)
+
+> GitHub auto-awards badges like Pull Shark, Quickdraw, YOLO, Starstruck, and Arctic Code Vault Contributor based on your activity — they show up automatically on your profile at [github.com/rahul3-lab](https://github.com/rahul3-lab?tab=achievements) as you earn them.
+
+[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/rahul3-lab?tab=achievements)
+[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/rahul3-lab?tab=achievements)
+[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/rahul3-lab?tab=achievements)
+[![Starstruck](https://github.githubassets.com/assets/starstruck-default-b6610abad518.png)](https://github.com/rahul3-lab?tab=achievements)
+[![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/rahul3-lab?tab=achievements)
 
 ## 🐍 Contribution Snake
 [#-contribution-snake](#-contribution-snake)
