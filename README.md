@@ -10,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+automation+systems;Exploring+LLMs%2C+RAG%2C+and+multi-agent+pipelines;Shipping+full-stack+apps+with+Python%2C+React+%26+Node)](https://git.io/typing-svg)
 
 ## ⚙️ About
-[#️-about](#️-about)
 
 AI/ML Engineer focused on building intelligent systems, automation workflows, and data-driven applications — spanning model training, LLM automation, and full-stack delivery.
 
@@ -22,32 +21,39 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 ```
 
 ## 🧠 Focus Areas
-[#-focus-areas](#-focus-areas)
 
 | **AI / Machine Learning** Model training & evaluation, PyTorch, TensorFlow, classical ML | **LLMs & Automation** RAG pipelines, intelligent automation, scalable AI workflows | **Full-Stack Engineering** Python, React, Node — shipping AI into real products |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------- |
 
 ## 🚀 Projects
-[#-projects](#-projects)
 
-| AI / LLM Automation[#ai-llm-automation](#ai-llm-automation)<br>Automation framework combining LLM pipelines with intelligent workflow orchestration.<br>`Python` `LLM` `Automation` | Business Rules ETL (Azure)[#business-rules-etl-azure](#business-rules-etl-azure)<br>Cloud-based ETL pipeline applying business rules to data flows on Azure.<br>`Azure` `ETL` `Python` |
+| AI / LLM Automation<br>Automation framework combining LLM pipelines with intelligent workflow orchestration.<br>`Python` `LLM` `Automation` | Business Rules ETL (Azure)<br>Cloud-based ETL pipeline applying business rules to data flows on Azure.<br>`Azure` `ETL` `Python` |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Machine Learning Projects[#machine-learning-projects](#machine-learning-projects)<br>A collection of ML projects covering model training, evaluation, and experimentation.<br>`Python` `Scikit-learn` `Pandas` | More Projects[#more-projects](#more-projects)<br>Browse the full list of repositories on my GitHub profile.<br>[View all →](https://github.com/rahul3-lab?tab=repositories) |
+| Machine Learning Projects<br>A collection of ML projects covering model training, evaluation, and experimentation.<br>`Python` `Scikit-learn` `Pandas` | More Projects<br>Browse the full list of repositories on my GitHub profile.<br>[View all →](https://github.com/rahul3-lab?tab=repositories) |
 
-## 🛠️ Tech Stack
-[#️-tech-stack](#️-tech-stack)
+## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas,azure,docker,git,js,ts,react,nextjs,nodejs,express,flask,mysql,postgres,mongodb&perline=10)](https://skillicons.dev)
+### 🎨 Frontend Development
 
-## 💻 Favorite Tools & Technologies
-[#-favorite-tools--technologies](#-favorite-tools--technologies)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas,numpy,jupyter,huggingface&perline=9)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,flask,vscode,graphql&perline=9)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,docker,kubernetes,git,github,linux&perline=9)](https://skillicons.dev)
+### ⚙️ Backend Development
+
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,express,flask,graphql&theme=dark)](https://skillicons.dev)
+
+### 🤖 AI/ML & Data Science
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,jupyter,huggingface&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-[#-github-stats](#-github-stats)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul3-lab&theme=tokyonight)](https://github.com/rahul3-lab)
 
@@ -59,14 +65,12 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul3-lab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=00C9FF&point=ffffff)](https://github.com/rahul3-lab)
 
 ## 🏆 Achievements
-[#-achievements](#-achievements)
 
 [![](https://github-profile-trophy.vercel.app/?username=rahul3-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/rahul3-lab)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ha42032)
 
 ### 🎖️ GitHub Achievement Badges
-[#️-github-achievement-badges](#️-github-achievement-badges)
 
 > GitHub auto-awards badges like Pull Shark, Quickdraw, YOLO, Starstruck, and Arctic Code Vault Contributor based on your activity — they show up automatically on your profile at [github.com/rahul3-lab](https://github.com/rahul3-lab?tab=achievements) as you earn them.
 
@@ -77,7 +81,6 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 [![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/rahul3-lab?tab=achievements)
 
 ## 🐍 Contribution Snake
-[#-contribution-snake](#-contribution-snake)
 
 [![Snake animation](https://raw.githubusercontent.com/rahul3-lab/rahul3-lab/output/github-contribution-grid-snake.svg)](https://github.com/rahul3-lab)
 
