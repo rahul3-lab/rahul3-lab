@@ -41,7 +41,7 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 ### ⚙️ Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,express,flask,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,express,flask,django,fastapi,spring,graphql,redis,nestjs&theme=dark)](https://skillicons.dev)
 
 ### 🤖 AI/ML & Data Science
 
