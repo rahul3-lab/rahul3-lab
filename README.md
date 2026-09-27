@@ -87,18 +87,9 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ha42032)
 
-<div align="center">
-
 > GitHub auto-awards badges like Pair Extraordinaire, Pull Shark, Quickdraw, Starstruck, and YOLO based on your activity — they show up automatically on your profile at [github.com/rahul3-lab](https://github.com/rahul3-lab?tab=achievements) as you earn them.
 
-[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](https://github.com/rahul3-lab?tab=achievements)
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/rahul3-lab?tab=achievements)
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/rahul3-lab?tab=achievements)
-[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/rahul3-lab?tab=achievements)
-[![Starstruck](https://github.githubassets.com/assets/starstruck-default-b6610abad518.png)](https://github.com/rahul3-lab?tab=achievements)
-[![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/rahul3-lab?tab=achievements)
-
-</div>
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="64" height="64" alt="Pair Extraordinaire"> <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" alt="Pull Shark"> <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" height="64" alt="Quickdraw"> <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="64" height="64" alt="Starstruck"> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" height="64" alt="YOLO"> <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="64" height="64" alt="Arctic Code Vault Contributor">
 
 ## 🐍 Contribution Snake
 
