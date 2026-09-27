@@ -43,7 +43,15 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 ### 🤖 AI/ML & Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,jupyter,huggingface&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,jupyter,huggingface,matlab,kaggle&theme=dark)](https://skillicons.dev)
+
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org)
+
+### 📊 Data Visualization & BI
+
+[![My Skills](https://skillicons.dev/icons?i=tableau,pbi&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
