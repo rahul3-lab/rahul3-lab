@@ -45,8 +45,12 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 ### 🤖 AI/ML & Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,jupyter,huggingface&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)](https://numpy.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117)](https://jupyter.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)](https://huggingface.co)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org)
@@ -81,19 +85,20 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 ## 🏆 Achievements
 
-[![](https://github-profile-trophy.vercel.app/?username=rahul3-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/rahul3-lab)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ha42032)
 
-### 🎖️ GitHub Achievement Badges
+<div align="center">
 
-> GitHub auto-awards badges like Pull Shark, Quickdraw, YOLO, Starstruck, and Arctic Code Vault Contributor based on your activity — they show up automatically on your profile at [github.com/rahul3-lab](https://github.com/rahul3-lab?tab=achievements) as you earn them.
+> GitHub auto-awards badges like Pair Extraordinaire, Pull Shark, Quickdraw, Starstruck, and YOLO based on your activity — they show up automatically on your profile at [github.com/rahul3-lab](https://github.com/rahul3-lab?tab=achievements) as you earn them.
 
+[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](https://github.com/rahul3-lab?tab=achievements)
 [![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/rahul3-lab?tab=achievements)
 [![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/rahul3-lab?tab=achievements)
 [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/rahul3-lab?tab=achievements)
 [![Starstruck](https://github.githubassets.com/assets/starstruck-default-b6610abad518.png)](https://github.com/rahul3-lab?tab=achievements)
 [![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/rahul3-lab?tab=achievements)
+
+</div>
 
 ## 🐍 Contribution Snake
 
