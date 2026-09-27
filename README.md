@@ -33,6 +33,8 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
 ### 🎨 Frontend Development
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark)](https://skillicons.dev)
@@ -63,6 +65,8 @@ AI/ML Engineer focused on building intelligent systems, automation workflows, an
 ### ☁️ Cloud & DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ## 📊 GitHub Stats
 
